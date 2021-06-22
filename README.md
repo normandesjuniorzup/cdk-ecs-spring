@@ -1,1 +1,2 @@
-# cdk-ecs-spring
+# POC para demonstrar o uso do CDK da AWS
+
